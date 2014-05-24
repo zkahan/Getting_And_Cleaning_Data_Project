@@ -1,11 +1,10 @@
 ### Coursera - Data Science Specialization
 ## Getting and Cleaning Data Project
 
-### Course project: Processing Human Activity Recognition data captured with
-### smart phones
-### Created by: Zammi Kahan
+#### Course project: Processing Human Activity Recognition data captured with smart phones
+#### Created by: Zammi Kahan
 
-### R script run_analysis.R: 
+#### R script run_analysis.R: 
 
  This script is written for cleaning the Human Activity Recognition data captured with
  smart phones and prepare them for further analysis.
@@ -16,11 +15,11 @@
 Data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 This script is used to:
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive activity names. 
-5. Creates a second, independent tidy data set with the average of each variable for each activity and 
+. Merges the training and the test sets to create one data set.
+. Extracts only the measurements on the mean and standard deviation for each measurement. 
+. Uses descriptive activity names to name the activities in the data set
+. Appropriately labels the data set with descriptive activity names. 
+. Creates a second, independent tidy data set with the average of each variable for each activity and 
    each subject.
 
 In Summary run_analysis.R is used for following processing and transformations.
